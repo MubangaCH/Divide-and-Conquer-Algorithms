@@ -1,5 +1,5 @@
 # Uses python3
-code sorted list first, breaks the list in half to search for item
+#code sorted list first, breaks the list in half to search for item
 
 import sys
 
